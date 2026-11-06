@@ -1,0 +1,68 @@
+"id","locale","title","file","status","pageUrl","error"
+"TC_EN_HEADER_DROPDOWNS_0001","english","TC_EN_HEADER_DROPDOWNS_0001 | Verify english header dropdown menus","english/header-dropdowns.spec.js","failed","https://infobeans.ai/ux-design","Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator:  getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()
+Expected: visible
+Received: hidden
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect ""toBeVisible"" getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first() with timeout 5000ms[22m
+[2m  - waiting for getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()[22m
+[2m    - waiting for ""https://infobeans.ai/ux-design/"" navigation to finish...[22m
+[2m    - navigated to ""https://infobeans.ai/ux-design/""[22m
+[2m    2 × locator resolved to <a href=""/ux-design/"" class=""submenu-link"">Design</a>[22m
+[2m      - unexpected value ""hidden""[22m
+"
+"TC_EN_PAGE_0001","english","TC_EN_PAGE_0001 | Verify english page availability and core content: Homepage","english/homepage.spec.js","failed","https://infobeans.ai/","Error: [2mexpect([22m[31mreceived[39m[2m).[22mnot[2m.[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: not [32m""""[39m"
+"TC_EN_PAGE_0003","english","TC_EN_PAGE_0003 | Verify homepage internal navigation links: Homepage","english/homepage.spec.js","failed","https://infobeans.ai/","Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m"
+"TC_EN_PAGE_0004","english","TC_EN_PAGE_0004 | Verify english page availability and core content: ux design","english/pages/page-ux-design-571c09c9.spec.js","failed","https://infobeans.ai/ux-design","Error: page.evaluate: Execution context was destroyed, most likely because of a navigation"
+"TC_EN_PAGE_0006","english","TC_EN_PAGE_0006 | Verify internal links and labels: ux design","english/pages/page-ux-design-571c09c9.spec.js","failed","https://infobeans.ai/ux-design","Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m"
+"TC_EN_RESPONSIVE_0001","english","TC_EN_RESPONSIVE_0001 | Verify english homepage responsive layout","english/responsive.spec.js","timedOut","https://infobeans.ai/","[31mTest timeout of 30000ms exceeded.[39m"
+"TC_DE_HEADER_DROPDOWNS_0001","german","TC_DE_HEADER_DROPDOWNS_0001 | Verify german header dropdown menus","german/header-dropdowns.spec.js","failed","https://infobeans.ai/de/ux-design","Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator:  getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()
+Expected: visible
+Received: hidden
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect ""toBeVisible"" getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first() with timeout 5000ms[22m
+[2m  - waiting for getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()[22m
+[2m    6 × locator resolved to <a class=""submenu-link"" href=""/de/ux-design/"">Design</a>[22m
+[2m      - unexpected value ""hidden""[22m
+"
+"TC_DE_HEADER_STRUCTURE_0001","german","TC_DE_HEADER_STRUCTURE_0001 | Verify german header links and destinations","german/header.spec.js","failed","https://infobeans.ai/de/ux-design","Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m"
+"TC_DE_PAGE_0003","german","TC_DE_PAGE_0003 | Verify homepage internal navigation links: Homepage","german/homepage.spec.js","failed","https://infobeans.ai/de","Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m"
+"TC_DE_PAGE_0004","german","TC_DE_PAGE_0004 | Verify german page availability and core content: ux design","german/pages/page-ux-design-27bf785d.spec.js","failed","https://infobeans.ai/de/ux-design","Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByRole('heading', { level: 1 }).first()
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect ""toBeVisible"" getByRole('heading', { level: 1 }).first() with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { level: 1 }).first()[22m
+[2m    - waiting for ""https://infobeans.ai/de/ux-design/"" navigation to finish...[22m
+[2m    - navigated to ""https://infobeans.ai/de/ux-design/""[22m
+"
+"TC_DE_PAGE_0006","german","TC_DE_PAGE_0006 | Verify internal links and labels: ux design","german/pages/page-ux-design-27bf785d.spec.js","failed","https://infobeans.ai/de/ux-design","Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m"
+"TC_DE_RESPONSIVE_0001","german","TC_DE_RESPONSIVE_0001 | Verify german homepage responsive layout","german/responsive.spec.js","timedOut","https://infobeans.ai/de","[31mTest timeout of 30000ms exceeded.[39m"

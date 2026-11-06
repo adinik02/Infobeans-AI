@@ -1,0 +1,601 @@
+{
+  "generatedAt": "2026-11-05T11:53:50.141Z",
+  "mappedPairs": [
+    {
+      "englishUrl": "https://infobeans.ai/",
+      "germanUrl": "https://infobeans.ai/de"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/ux-design",
+      "germanUrl": "https://infobeans.ai/de/ux-design"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/gcc-services",
+      "germanUrl": "https://infobeans.ai/de/gcc-services"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/platform-assessment",
+      "germanUrl": "https://infobeans.ai/de/plattform-bewertung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/bfsi",
+      "germanUrl": "https://infobeans.ai/de/bfsi"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/storage-and-virtualization",
+      "germanUrl": "https://infobeans.ai/de/speicher-virtualisierung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/technology",
+      "germanUrl": "https://infobeans.ai/de/technology"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/agentic-engineering",
+      "germanUrl": "https://infobeans.ai/de/agentisches-engineering"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/servicenow",
+      "germanUrl": "https://infobeans.ai/de/servicenow"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/salesforce",
+      "germanUrl": "https://infobeans.ai/de/salesforce"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/?wow_story=42633",
+      "germanUrl": "https://infobeans.ai/de/?wow_story=44797"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/stanza",
+      "germanUrl": "https://infobeans.ai/de/stanza"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/spacewarp",
+      "germanUrl": "https://infobeans.ai/de/spacewarp"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/beantrail",
+      "germanUrl": "https://infobeans.ai/de/beantrail"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/qava-for-oracle",
+      "germanUrl": "https://infobeans.ai/de/qava-fur-oracle"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/accelerating-production-defect-resolution-by-30-across-a-4m-daily-transaction-platform",
+      "germanUrl": "https://infobeans.ai/true-stories/reduzierung-der-problemloesungszeit-in-der-produktion-um-30-mit-claude-code-fuer-eine-hochvolumige-loyalty-plattform"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/blog",
+      "germanUrl": "https://infobeans.ai/de/blog"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcasts",
+      "germanUrl": "https://infobeans.ai/de/podcasts"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/creating-wow-a-leadership-journey-rooted-in-curiosity-culture-human-connection",
+      "germanUrl": "https://infobeans.ai/podcast/eine-fuhrungsreise-die-in-neugier-kultur-und-menschlicher-verbundenheit-wurzelt"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/leadership",
+      "germanUrl": "https://infobeans.ai/de/fuehrungsteam"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/infobeans-foundation",
+      "germanUrl": "https://infobeans.ai/de/infobeans-stiftung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/enterprise-readiness",
+      "germanUrl": "https://infobeans.ai/de/enterprise-readiness"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/investors",
+      "germanUrl": "https://infobeans.ai/de/investoren"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers",
+      "germanUrl": "https://infobeans.ai/de/karriere"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/reducing-hr-operational-costs-by-20-and-accelerating-case-resolution-for-50000-employees",
+      "germanUrl": "https://infobeans.ai/true-stories/reduzierung-der-hr-betriebskosten-um-20-prozent-und-schnellere-fallbearbeitung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/driving-5x-customer-growth-and-50-faster-case-routing-via-unified-salesforce-agentforce",
+      "germanUrl": "https://infobeans.ai/true-stories/5x-kundenwachstum-durch-ki-gesteuerte-automatisierung-fur-indiens-grossten-industriellen-b2b-vertriebshandler"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/tags/cloud",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/tags/bfsi",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/tags/consumer-goods",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/tags/gcc-success",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/tags/sdo",
+      "germanUrl": "https://infobeans.ai/de/wahre-geschichten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/manufacturing",
+      "germanUrl": "https://infobeans.ai/de/fertigung-produktion"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/servicenow-hrsd",
+      "germanUrl": "https://infobeans.ai/de/servicenow-hrsd"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/contact-us",
+      "germanUrl": "https://infobeans.ai/de/kontakt"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/cut-embarkation-time-by-5x-with-agentic-facial-recognition-and-a-reimagined-guest-journey",
+      "germanUrl": "https://infobeans.ai/true-stories/einschiffungszeit-um-das-funffache-verkuerzt-durch-ki-gestuetzte-gesichtserkennung-und-eine-neu-gestaltete-guest-journey"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/?wow_story=42632",
+      "germanUrl": "https://infobeans.ai/de/?wow_story=44797"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/gcc",
+      "germanUrl": "https://infobeans.ai/true-stories/die-automatisierung-von-hr-prozessen-optimierte-die-ablaufe"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/driving-it-asset-visibility-and-achieving-up-to-30-software-cost-savings-for-a-global-consulting-firm",
+      "germanUrl": "https://infobeans.ai/true-stories/forderung-der-it-asset-transparenz-und-erzielung-von-bis-zu-30-software-kosteneinsparungen-fur-ein-globales-beratungsunternehmen"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/helping-a-leading-us-bank-detect-risk-before-it-becomes-reality",
+      "germanUrl": "https://infobeans.ai/true-stories/unterstutzung-einer-fuhrenden-us-bank-bei-der-erkennung-von-risiken-bevor-diese-eintreten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/modernizing-enterprise-risk-management-for-a-global-banking-leader",
+      "germanUrl": "https://infobeans.ai/true-stories/modernisierung-des-unternehmensweiten-risikomanagements-fur-ein-fuhrendes-globales-bankinstitut"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/transforming-the-digital-insurance-buying-experience-for-one-of-menas-largest-insurers",
+      "germanUrl": "https://infobeans.ai/true-stories/transformation-des-digitalen-kauferlebnisses-fur-versicherungen-fur-einen-der-grossten-versicherer-der-mena-region"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/enabling-global-insurers-with-24x7-intelligent-application-support",
+      "germanUrl": "https://infobeans.ai/true-stories/247-intelligenter-anwendungs-support-fur-globale-versicherer"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/streamlined-data-protection-optimized-12-connectors-for-fortune-500-scalability-and-reliability",
+      "germanUrl": "https://infobeans.ai/true-stories/optimierter-datenschutz-12-connectors-skalierbarkeit-zuverlaessigkeit-fortune-500-unternehmen"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/optimized-legacy-product-sustenance-to-drive-2m-annual-operational-savings",
+      "germanUrl": "https://infobeans.ai/true-stories/optimierte-pflege-legacy-produkte-jaehrliche-betriebseinsparungen-2-mio-dollar"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/increased-internet-speeds-for-over-250000-consumers-in-low-connectivity-areas",
+      "germanUrl": "https://infobeans.ai/true-stories/hoehere-internetgeschwindigkeiten-fuer-ueber-250000-verbraucher-in-gebieten-mit-schlechter-netzabdeckung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/accelerated-delivery-velocity-by-3x-with-claude-code",
+      "germanUrl": "https://infobeans.ai/true-stories/dreifache-beschleunigung-der-liefergeschwindigkeit-mit-claude-code"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/accelerating-order-fulfillment-by-40-and-driving-a-65-increase-in-self-service-adoption-for-a-leading-jewelry-retailer",
+      "germanUrl": "https://infobeans.ai/true-stories/beschleunigung-der-auftragsabwicklung-um-40-und-steigerung-der-self-service-adoption-um-65-bei-einem-fuhrenden-schmuckeinzelhandler"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/scaling-global-hrsd-csm-transformation-across-100-countries-for-300000-employees",
+      "germanUrl": "https://infobeans.ai/true-stories/skalierung-der-globalen-hrsd-csm-transformation-uber-100-lander-fur-mehr-als-300-000-mitarbeiter"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/devops-and-azure",
+      "germanUrl": "https://infobeans.ai/de/devops-pakete"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/data-mind-ai-storage-optimizer",
+      "germanUrl": "https://infobeans.ai/de/data-mind-ai-storage-optimizer"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/qa-automation",
+      "germanUrl": "https://infobeans.ai/de/qa-automation"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/how-a-consumer-goods-manufacturer-took-a-three-pillar-fusion-rollout-from-8-months-to-5",
+      "germanUrl": "https://infobeans.ai/true-stories/wie-ein-konsumgueterhersteller-eine-dreistellige-fusion-einfuehrung-von-8-monaten-auf-5-verkuerzte"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/how-agents-took-over-regression-for-a-building-products-distributor-cut-the-effort-60-and-caught-a-shipping-defect-first",
+      "germanUrl": "https://infobeans.ai/true-stories/wie-agenten-die-regression-fuer-einen-baustoffhaendler-uebernahmen-den-aufwand-um-60-reduzierten-und-einen-versandfehler-als-erstes-aufdeckten"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/ai-is-accelerating-enterprise-delivery-reliability-and-assurance-intelligence-is-the-layer-keeping-it-trustworthy",
+      "germanUrl": "https://infobeans.ai/ki-beschleunigt-die-bereitstellung-in-unternehmen-reliability-and-assurance-intelligence-ist-die-ebene-die-dafuer-sorgt-dass-sie-vertrauenswuerdig-bleibt"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/why-salesforce-teams-trust-beantrail-and-beantrail-agent-for-complete-field-history-confidence",
+      "germanUrl": "https://infobeans.ai/warum-salesforce-teams-auf-beantrail-und-den-beantrail-agenten-setzen-fuer-lueckenloses-vertrauen-in-ihre-feldhistorie"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/infobeans-earns-ecovadis-bronze-medal-rated-among-the-top-35-of-companies-assessed",
+      "germanUrl": "https://infobeans.ai/infobeans-erhalt-ecovadis-bronze-medaille-und-gehort-zu-den-besten-35-der-bewerteten-unternehmen"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/oracle-ai-world-2026",
+      "germanUrl": "https://infobeans.ai/treffen-sie-infobeans-auf-der-oracle-ai-world-2026"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/creating-wow-33-years-of-fun-learning-fearless-innovation",
+      "germanUrl": "https://infobeans.ai/podcast/creating-wow-33-jahre-voller-spass-lernen-und-furchtloser-innovation"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/itep",
+      "germanUrl": "https://infobeans.ai/de/itep"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/?wow_story=42631",
+      "germanUrl": "https://infobeans.ai/de/?wow_story=44797"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/?wow_story=42630",
+      "germanUrl": "https://infobeans.ai/de/?wow_story=44797"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/created-a-chatgpt-3-5-enabled-solution-that-extracts-relevant-information-from-a-company-knowledge-base",
+      "germanUrl": "https://infobeans.ai/true-stories/ein-gpt-gestutztes-system-optimierte-die-employee-experience"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/managed-support",
+      "germanUrl": "https://infobeans.ai/de/managed-support"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/lighthouse",
+      "germanUrl": "https://infobeans.ai/de/lighthouse"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/expona",
+      "germanUrl": "https://infobeans.ai/expona-produkt"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/insanesdd",
+      "germanUrl": "https://infobeans.ai/insanesdd-produkt"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/ibf-registration",
+      "germanUrl": "https://infobeans.ai/de/bf-registrierung"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/why-is-growth-hard-to-predict-for-chemical-manufacturers",
+      "germanUrl": "https://infobeans.ai/warum-ist-wachstum-fuer-chemiehersteller-so-schwer-vorherzusagen"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/unlocking-success-how-salesforce-nonprofit-cloud-can-revolutionize-sdos",
+      "germanUrl": "https://infobeans.ai/wie-revolutioniert-salesforce-nonprofit-cloud-sdos"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/how-ai-cut-our-user-research-synthesis-time-in-half-and-made-our-insights-3x-better",
+      "germanUrl": "https://infobeans.ai/der-traditionelle-research-engpass-er-bremst-den-schwung-der-innovation"
+    },
+    {
+      "englishUrl": "https://infobeans.ai/balancing-growth-governance-ai-strategy-for-salesforce-financial-services-cloud",
+      "germanUrl": "https://infobeans.ai/ki-strategie-fur-salesforce-financial-services-cloud"
+    }
+  ],
+  "unmappedPages": [
+    {
+      "englishUrl": "https://infobeans.ai/disclaimer",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/privacy-policy",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/salesforce-real-estate-event-dubai-2026",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/agentforce-world-tour-dubai-2026",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/infobeans-at-servicenow-world-forum-mumbai-2026",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/wowblazer-hackathon-2026-celebrating-innovation-uae-claudeforce-win",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/27th-cioleader-conference-2026",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/infobeans-achieves-iso-iec-420012023-certification-for-ai-management-systems",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/infobeans-knowledge-26",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/augmenting-human-work-gen-ais-impact-on-enterprise-and-teams",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/from-cio-to-ai-visionary-nishit-sahay-on-marvells-tech-transformation-and-the-future-of-ai-governance",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/data-flops-to-ai-wins-sandwich-secrets-from-walmarts-data-bridge",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/pivoting-fast-lessons-from-vivek-mahapatra-on-ai-and-enterprise",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/navigating-the-future-innovations-in-servicenow-and-generative-ai",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/modernizing-legacy-systems-ai-data-strategy-and-driving-change",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/digital-transformation-in-hr-with-dana-st-pierre",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/rebuilding-trust-through-design",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/regulation-46",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Senior-AIL-2026-10-2432",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/SrDat-AIL-2026-10-2431",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Fusion-AIL-2026-10-2407",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/CXD-AIL-2026-10-2408",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/SCMFu-AIL-2026-10-2409",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Oracle-AIL-2026-10-2358",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Databa-AIL-2026-10-2374",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Fusion-AIL-2026-09-2223",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Fusion-AIL-2026-09-2224",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Oracle-AIL-2026-10-2305",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/People-AIL-2026-09-2292",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/TestA-AIL-2026-09-2226",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/EPMLe-IT-2026-04-1800",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Oracle-IT-2026-06-1978",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/ITN-Org-2026-10-2336",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/SOAAd-Sal-2026-08-2147",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Servic-Ser-2026-09-2264",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Servic-Ser-2026-08-2164",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/careers/Servic-Ser-2026-08-2134",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/achieved-100-hr-process-automation-through-servicenow",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/student-mentor-assistance-platform",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/sso-using-azure-ad-b2c-implementation",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/data-processing-through-adf-power-bi-dashboarding",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/automated-deployments-with-ci-cd-pipelines-on-azure-devops",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/servicenow-transformation-partner-of-the-year-2026-infobeans",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/ai-ethics-and-smarter-experimentation",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/podcast/harnessing-ai-for-network-operations-with-josh-angotti",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/developed-an-ai-based-transcription-tool-for-podcast-recordings",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/mail-scan-ingestion-document-ocr-processing",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/achieved-48x-roi-in-just-6-weeks",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/cpq-implementation-to-facilitate-configuration-of-complex-products-and-their-respective-pricing-structure",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/co-created-with-consumers-and-prototyped-12-innovative-features-for-an-ott-platform-which-became-hbo-max",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/restaurant-inventory-auditing-using-rpa",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/product-support-managed-services",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/product-support-sustenance-connector-development",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/optimizing-enterprise-workflows-ai-powered-automation-on-servicenow",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/creating-connected-ai-powered-service-in-chemical-distribution",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/etl-operations-automation-mulesoft-3-x-4-x-migration",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/developed-an-international-money-transfer-solution-using-blockchain-that-reduced-transaction-time-by-150x",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/rebuilt-itsm-module-features-in-servicenow-agent-mobile-app",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/built-a-traceability-platform-to-better-limit-counterfeiting",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/designed-the-leading-nft-platform-for-rare-whiskey-collectors",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    },
+    {
+      "englishUrl": "https://infobeans.ai/true-stories/configuration-customization-of-engagement-management-platform",
+      "germanUrl": "",
+      "issue": "No German page was mapped through hreflang or a matching localized path; manual review is required."
+    }
+  ],
+  "note": "Unmapped URLs require manual review; they are not automatically declared to be missing translations."
+}

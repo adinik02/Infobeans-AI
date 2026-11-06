@@ -1,0 +1,776 @@
+- generic [active] [ref=f7e1]:
+  - region "We value your privacy" [ref=f7e2]:
+    - generic [ref=f7e3]:
+      - button "Close" [ref=f7e4] [cursor=pointer]
+      - generic [ref=f7e5]:
+        - heading "We value your privacy" [level=2] [ref=f7e6]
+        - generic [ref=f7e7]:
+          - paragraph [ref=f7e9]: We use cookies to make your website experience better. By providing your consent, you allow us to store/process information, including your IP address and browsing history, for site improvements, content measurements, and marketing purposes. You may accept or reject all cookies or choose a limited cookie preference.
+          - generic [ref=f7e10]:
+            - button "Customize" [ref=f7e11] [cursor=pointer]
+            - button "Reject All" [ref=f7e12] [cursor=pointer]
+            - button "Accept All" [ref=f7e13] [cursor=pointer]
+  - banner [ref=f7e14]:
+    - link "ASK EXPONA" [ref=f7e18] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f7e21]:
+      - link "InfoBeans Home" [ref=f7e23] [cursor=pointer]:
+        - /url: https://infobeans.ai/
+        - img "InfoBeans Logo" [ref=f7e24]
+      - generic:
+        - link "Read Tarulata Champawat's wow Story Tarulata Champawat's WOW story":
+          - /url: https://infobeans.ai/?wow_story=42632
+          - generic: Read Tarulata Champawat's wow Story
+          - img "Tarulata Champawat's WOW story"
+      - generic:
+        - link "Read Tarulata Champawat's wow Story Tarulata Champawat's WOW story":
+          - /url: https://infobeans.ai/?wow_story=42632
+          - generic: Read Tarulata Champawat's wow Story
+          - img "Tarulata Champawat's WOW story"
+      - generic:
+        - link "Read Tarulata Champawat's wow Story Tarulata Champawat's WOW story":
+          - /url: https://infobeans.ai/?wow_story=42632
+          - generic: Read Tarulata Champawat's wow Story
+          - img "Tarulata Champawat's WOW story"
+      - generic:
+        - link "Read Tarulata Champawat's wow Story Tarulata Champawat's WOW story":
+          - /url: https://infobeans.ai/?wow_story=42632
+          - generic: Read Tarulata Champawat's wow Story
+          - img "Tarulata Champawat's WOW story"
+      - button "EN" [ref=f7e27] [cursor=pointer]
+  - generic:
+    - generic:
+      - heading "Tarulata Champawat" [level=3]
+      - paragraph: Strategy & Execution Leader · 21 years at InfoBeans
+      - paragraph: "\"In a world that is always in a hurry, stopping to help is the most radical way to remain human.\""
+  - generic [ref=f7e34]:
+    - main [ref=f7e35]:
+      - generic [ref=f7e37]:
+        - generic [ref=f7e39]:
+          - heading "The quietest kind of care" [level=1] [ref=f7e40]
+          - generic [ref=f7e42]:
+            - paragraph [ref=f7e43]: In 2022, life had shifted a little bit for Tarulata.
+            - paragraph [ref=f7e44]: Her mother-in-law was critically ill, and the family was trying to bring her home after spending many days in the hospital. That meant arranging medical support they did not know how to put together quickly enough. And this was shortly after COVID, when even basic equipment was still difficult to find.
+            - paragraph: She casually mentioned the situation at work with one of her colleagues. Not as a request exactly, but just as an unfiltered remark shared out of sheer exhaustion.
+            - paragraph: To her surprise, the next morning, a loading rickshaw arrived outside her house carrying almost everything they had spent days trying to arrange.
+            - paragraph: It included a medical bed, oxygen support, an IV stand, and other equipment she struggles to remember because the relief was overwhelming.
+            - paragraph: But what stayed with her wasn't the equipment. The work somehow carried on without constantly asking for her. Only later did she learn that her manager had quietly informed the team to give her the space she didn't know how to ask for.
+            - paragraph: Nobody ever spoke about it. That is what she remembers most. The fact that someone noticed what she needed before she had to ask.
+          - paragraph [ref=f7e45]: Scroll to read more
+          - generic [ref=f7e48] [cursor=pointer]:
+            - generic [ref=f7e49]: Tarulata's Story
+            - generic [ref=f7e50]: •
+            - generic [ref=f7e51]: "2005"
+        - generic [ref=f7e52]: WHAT WE DO
+      - heading "Who we are in unscripted moments is who we are at enterprise scale." [level=2] [ref=f7e60]
+      - generic [ref=f7e63]:
+        - generic [ref=f7e64]:
+          - generic [ref=f7e65]:
+            - generic [ref=f7e66]: ServiceNow
+            - generic [ref=f7e67]: Salesforce
+            - generic [ref=f7e68]: Agentic Engineering
+          - heading "Enterprise Technology Partner Trusted at Fortune 100 Scale." [level=2] [ref=f7e69]:
+            - generic [ref=f7e70]: Enterprise Technology Partner
+            - generic [ref=f7e71]: Trusted at Fortune 100 Scale.
+          - generic [ref=f7e72]:
+            - textbox "Start with the challenge on your mind." [ref=f7e73]
+            - button "Submit" [ref=f7e74] [cursor=pointer]:
+              - img "challenge-button-icon" [ref=f7e75]
+        - link "WOW MOMENT Select Services Partner, Claude Partner Network InfoBeans has achieved the Select Partner tier in the Claude Partner Network Services Track." [ref=f7e78] [cursor=pointer]:
+          - /url: /agentic-engineering/
+          - generic [ref=f7e79]:
+            - generic [ref=f7e80]: WOW MOMENT
+            - img "Select Services Partner, Claude Partner Network" [ref=f7e83]
+            - paragraph [ref=f7e85]: InfoBeans has achieved the Select Partner tier in the Claude Partner Network Services Track.
+      - generic [ref=f7e88]:
+        - heading "What we ship" [level=2] [ref=f7e89]
+        - generic [ref=f7e90]:
+          - generic [ref=f7e91]:
+            - generic [ref=f7e92]:
+              - generic [ref=f7e93] [cursor=pointer]:
+                - generic [ref=f7e94]: Leading private bank
+                - heading "Reducing HR operational costs by 20% and accelerating case resolution for 50,000+ employees" [level=3] [ref=f7e96]
+                - generic [ref=f7e97]:
+                  - generic [ref=f7e98]: ServiceNow HRSD
+                  - generic [ref=f7e99]: AI-Powered Search
+                  - generic [ref=f7e100]: BFSI
+              - generic [ref=f7e101]:
+                - generic [ref=f7e102]:
+                  - generic [ref=f7e103]:
+                    - heading "What" [level=4] [ref=f7e104]
+                    - paragraph [ref=f7e105]: Replaced a fragmented, multi-system HR landscape with a single Employee Center — unifying case management, knowledge search, and profile updates across ServiceNow and Oracle HR.
+                    - paragraph [ref=f7e106]: "The outcome: faster resolutions, consistent records, and a self-service experience for 50,000+ employees."
+                  - generic [ref=f7e107]:
+                    - heading "Why" [level=4] [ref=f7e108]
+                    - paragraph [ref=f7e109]: HR services were scattered across systems, forcing employees to juggle multiple applications for leave, payroll, benefits, and profile updates — while duplicate data entry created compliance risk and inconsistent records.
+                    - paragraph [ref=f7e110]: The bank needed one connected platform to close these gaps without disrupting Oracle as the system of record.
+                - generic [ref=f7e111]:
+                  - generic [ref=f7e112]:
+                    - heading "How" [level=4] [ref=f7e113]
+                    - paragraph [ref=f7e114]: InfoBeans built a Unified Employee Center on ServiceNow HRSD, consolidating 85+ HR services into a single, standardized catalog with automated case creation and routing. AI-powered Enterprise Knowledge Search connected ServiceNow with external repositories using Zero-Copy Metadata Indexing, so employees could search everything from one place without duplicating content. A dedicated Profile Synchronization workflow, powered by FlowAPI Runner, let employees update personal details once and sync them securely to Oracle in real time.
+                    - paragraph [ref=f7e115]: Together, these capabilities cut HR operational costs by 15-20%, sped up case resolution by 20-25%, and reduced manual profile-update effort by 40-50% — giving employees a consistent, always-on HR experience.
+                  - link "VIEW TRUE STORY" [ref=f7e117] [cursor=pointer]:
+                    - /url: /true-stories/reducing-hr-operational-costs-by-20-and-accelerating-case-resolution-for-50000-employees/
+            - generic [ref=f7e120] [cursor=pointer]: See what changed
+          - generic:
+            - generic:
+              - generic:
+                - generic: Industrial B2B Distribution
+                - generic:
+                  - heading "Driving 5x customer growth and 50% faster case routing via unified Salesforce Agentforce" [level=3]
+                - generic:
+                  - generic: Salesforce Agentforce
+                  - generic: Data 360
+                  - generic: Marketing Cloud
+              - generic:
+                - generic:
+                  - generic:
+                    - heading "What" [level=4]
+                    - paragraph: Consolidated fragmented service, sales, and marketing operations — spanning CRM, SAP Commerce Cloud, and digital platforms — into one AI-driven Salesforce ecosystem serving both customers and internal teams.
+                    - paragraph: "The outcome: automated case classification, AI-generated quotes, and a unified customer view powering personalization at scale."
+                  - generic:
+                    - heading "Why" [level=4]
+                    - paragraph: "Manual processes were slowing the business: 3,000-3,500 support emails a day sorted and routed by hand, repetitive quote generation reliant on individual product expertise, and customer data siloed across systems with no single view of the customer."
+                    - paragraph: The organization needed automation to scale its engagement model and convert fragmented data into predictive, personalized action.
+                - generic:
+                  - generic:
+                    - heading "How" [level=4]
+                    - paragraph: Agentforce introduced AI-driven case classification, brand identification, and automated routing, alongside AI-assisted quote drafting and response generation. Data 360 unified Customer 360 through identity resolution across CRM, ERP, Commerce, and digital channels, while Marketing Cloud powered real-time segmentation, 25+ automated omnichannel journeys, and predictive models for next-best-action and propensity. Experience Cloud and CPQ delivered a self-service portal with guided selling and automated pricing, backed by integrations with Factwise, e-commerce, and chatbot/CTI systems.
+                    - paragraph: Together, these integrations reduced case routing turnaround time by 40-50%, cut manual quote creation effort by 50-70%, and scaled the Believer Score engagement program 5x — from 2 lakh to 1 million customers.
+                  - generic:
+                    - link "VIEW TRUE STORY":
+                      - /url: /true-stories/driving-5x-customer-growth-and-50-faster-case-routing-via-unified-salesforce-agentforce/
+            - generic: See what changed
+          - generic:
+            - generic:
+              - generic:
+                - generic: US loyalty platform
+                - generic:
+                  - heading "Accelerating production defect resolution by 30% across a 4M+ daily transaction platform" [level=3]
+                - generic:
+                  - generic: Claude Code
+                  - generic: AI-Assisted Engineering
+                  - generic: Tech
+              - generic:
+                - generic:
+                  - generic:
+                    - heading "What" [level=4]
+                    - paragraph: Integrated Claude Code into the engineering workflow of a loyalty platform processing 4 million transactions daily, embedding AI assistance directly into design, code review, and production support.
+                    - paragraph: "The outcome: faster delivery, fewer defects, and quicker resolution of production issues."
+                  - generic:
+                    - heading "Why" [level=4]
+                    - paragraph: Engineering bottlenecks were threatening delivery velocity for a platform operating at serious scale, every slowdown in design, review, or issue resolution carried outsized risk given the transaction volume running through the system daily.
+                    - paragraph: The team needed to move faster without compromising code quality or platform stability.
+                - generic:
+                  - generic:
+                    - heading "How" [level=4]
+                    - paragraph: Claude Code was embedded across the engineering workflow — accelerating solution design, enabling more thorough code review, and speeding up production issue diagnosis and resolution.
+                    - paragraph: This cut production issue resolution time by 30%, while measurably improving delivery speed and reducing defects across the platform.
+                  - generic:
+                    - link "VIEW TRUE STORY":
+                      - /url: /true-stories/accelerating-production-defect-resolution-by-30-across-a-4m-daily-transaction-platform/
+            - generic: See what changed
+          - generic:
+            - generic:
+              - heading "Discover stories across industries and technology" [level=3]
+              - generic:
+                - link "Cloud Transformation":
+                  - /url: /true-stories/tags/cloud
+                - link "BFSI":
+                  - /url: /true-stories/tags/bfsi
+                - link "Consumer Goods":
+                  - /url: /true-stories/tags/consumer-goods
+                - link "GCC Success":
+                  - /url: /true-stories/tags/gcc-success
+                - link "Standards Development Organizations":
+                  - /url: /true-stories/tags/sdo
+              - link "View all True Stories":
+                - /url: /true-stories/
+        - generic [ref=f7e122]:
+          - generic [ref=f7e123] [cursor=pointer]:
+            - text: ServiceNow
+            - generic [ref=f7e124]: ...
+          - generic [ref=f7e125] [cursor=pointer]: Salesforce
+          - generic [ref=f7e126] [cursor=pointer]: Agentic Engineering
+          - generic [ref=f7e127] [cursor=pointer]
+      - generic [ref=f7e134]:
+        - heading "We show up for each other. build together. grow with the community. create wow!" [level=3] [ref=f7e136]:
+          - generic [ref=f7e137]: We
+          - generic [ref=f7e139]:
+            - generic [ref=f7e140]: show up for each other.
+            - generic [ref=f7e141]: build together.
+            - generic [ref=f7e142]: grow with the community.
+            - generic [ref=f7e143]:
+              - generic [ref=f7e144]: create
+              - generic [ref=f7e145]: wow!
+        - generic [ref=f7e147]:
+          - generic [ref=f7e149]:
+            - iframe [ref=f7e150]:
+              - generic [ref=f8e1]:
+                - generic "YouTube Video Player" [ref=f8e3]
+                - generic [ref=f8e6]:
+                  - generic:
+                    - generic:
+                      - button "Hide player controls" [ref=f8e7] [cursor=pointer]
+                      - generic [ref=f8e9]:
+                        - generic [ref=f8e16]:
+                          - generic [ref=f8e17]:
+                            - link "We live your story!" [ref=f8e18] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=rIQyCnsdBZM
+                            - link "InfoBeans" [ref=f8e19] [cursor=pointer]:
+                              - /url: /channel/UClE2ErY6eTSv6GvveEWv8wQ
+                          - generic [ref=f8e21]:
+                            - button [ref=f8e22] [cursor=pointer]
+                            - generic [ref=f8e24]:
+                              - generic: InfoBeans
+                              - generic: 16K subscribers
+                        - generic [ref=f8e26]:
+                          - button "Rewind 10 seconds" [ref=f8e27] [cursor=pointer]
+                          - button "Pause video" [ref=f8e29] [cursor=pointer]
+                          - button "Fast forward 10 seconds" [ref=f8e33] [cursor=pointer]
+                        - generic:
+                          - generic [ref=f8e34]:
+                            - button "Copy link" [ref=f8e38] [cursor=pointer]
+                            - generic [ref=f8e46]:
+                              - button "More videos" [ref=f8e49] [cursor=pointer]
+                              - link "Watch on YouTube" [ref=f8e56] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=rIQyCnsdBZM
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=gB1D6vVAY-0&feature=endscreen
+                                        - generic: 2:42
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Office Tour - Experience our World of WOW! 2 years ago":
+                                              - /url: https://www.youtube.com/watch?v=gB1D6vVAY-0&feature=endscreen
+                                              - heading "Office Tour - Experience our World of WOW!" [level=3]
+                                              - generic: 2 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=lQIW3IeM99g&feature=endscreen
+                                        - generic: 26:14
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Indore Talk at InfoBeans | Candid Talk 6 years ago":
+                                              - /url: https://www.youtube.com/watch?v=lQIW3IeM99g&feature=endscreen
+                                              - heading "Indore Talk at InfoBeans | Candid Talk" [level=3]
+                                              - generic: 6 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                        - generic: 14:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "WOW People: Life at InfoBeans 9 months ago"':
+                                              - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                              - 'heading "WOW People: Life at InfoBeans" [level=3]'
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=H-Ckh3uQGvI&feature=endscreen
+                                        - generic: 2:26
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "InfoBeans Foundation 4 years ago":
+                                              - /url: https://www.youtube.com/watch?v=H-Ckh3uQGvI&feature=endscreen
+                                              - heading "InfoBeans Foundation" [level=3]
+                                              - generic: 4 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=vui9lucSgvI&feature=endscreen
+                                        - generic: 1:24
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "World of WOW | InfoBeans Office in Indore 4 years ago":
+                                              - /url: https://www.youtube.com/watch?v=vui9lucSgvI&feature=endscreen
+                                              - heading "World of WOW | InfoBeans Office in Indore" [level=3]
+                                              - generic: 4 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=LHvWHxI9ZTI&feature=endscreen
+                                        - generic: 1:08
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Nav Rangilo Dandiya at InfoBeans! 2 weeks ago":
+                                              - /url: https://www.youtube.com/watch?v=LHvWHxI9ZTI&feature=endscreen
+                                              - heading "Nav Rangilo Dandiya at InfoBeans!" [level=3]
+                                              - generic: 2 weeks ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=SBx_bsn7CBk&feature=endscreen
+                                        - generic: 0:30
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Journey with InfoBeans | Arpit Jain, UX Practice Head 5 years ago":
+                                              - /url: https://www.youtube.com/watch?v=SBx_bsn7CBk&feature=endscreen
+                                              - heading "Journey with InfoBeans | Arpit Jain, UX Practice Head" [level=3]
+                                              - generic: 5 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                        - generic: 8:10
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "The Unplugged Chat - Life at InfoBeans 9 months ago":
+                                              - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                              - heading "The Unplugged Chat - Life at InfoBeans" [level=3]
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=QI-1T5hmnXQ&feature=endscreen
+                                        - generic: 1:50
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "InfoBeans awarded amongst 50 Best IT Companies to work for 11 years ago":
+                                              - /url: https://www.youtube.com/watch?v=QI-1T5hmnXQ&feature=endscreen
+                                              - heading "InfoBeans awarded amongst 50 Best IT Companies to work for" [level=3]
+                                              - generic: 11 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=Ar5oeL3dEvk&feature=endscreen
+                                        - generic: 1:41
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "Meet Qava : AI Agents for Every Oracle Fusion Release 6 days ago"':
+                                              - /url: https://www.youtube.com/watch?v=Ar5oeL3dEvk&feature=endscreen
+                                              - 'heading "Meet Qava : AI Agents for Every Oracle Fusion Release" [level=3]'
+                                              - generic: 6 days ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                        - generic: 1:22:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast 7 months ago":
+                                              - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                              - heading "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast" [level=3]
+                                              - generic: 7 months ago
+            - generic [aria-hidden] [ref=f7e151] [cursor=pointer]
+            - button "Play video"
+            - group "Video controls":
+              - button "Pause"
+              - slider "Seek"
+              - generic:
+                - generic: 0:00
+                - generic: /
+                - generic: 3:15
+              - generic:
+                - button "Unmute"
+                - slider "Volume": "0"
+              - button "Full screen"
+          - generic [ref=f7e153]:
+            - iframe [ref=f7e154]:
+              - generic [ref=f9e1]:
+                - generic "YouTube Video Player" [ref=f9e3]
+                - generic [ref=f9e6]:
+                  - generic:
+                    - generic:
+                      - button "Hide player controls" [ref=f9e7] [cursor=pointer]
+                      - generic [ref=f9e9]:
+                        - generic [ref=f9e16]:
+                          - generic [ref=f9e17]:
+                            - link "Team agineo's Visit to InfoBeans India HQ" [ref=f9e18] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=f3RCXrkj578
+                            - link "InfoBeans" [ref=f9e19] [cursor=pointer]:
+                              - /url: /channel/UClE2ErY6eTSv6GvveEWv8wQ
+                          - generic [ref=f9e21]:
+                            - button [ref=f9e22] [cursor=pointer]
+                            - generic [ref=f9e24]:
+                              - generic: InfoBeans
+                              - generic: 16K subscribers
+                        - generic [ref=f9e26]:
+                          - button "Rewind 10 seconds" [ref=f9e27] [cursor=pointer]
+                          - button "Pause video" [ref=f9e29] [cursor=pointer]
+                          - button "Fast forward 10 seconds" [ref=f9e33] [cursor=pointer]
+                        - generic:
+                          - generic [ref=f9e34]:
+                            - button "Copy link" [ref=f9e38] [cursor=pointer]
+                            - generic [ref=f9e46]:
+                              - button "More videos" [ref=f9e49] [cursor=pointer]
+                              - link "Watch on YouTube" [ref=f9e56] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=f3RCXrkj578
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=gB1D6vVAY-0&feature=endscreen
+                                        - generic: 2:42
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Office Tour - Experience our World of WOW! 2 years ago":
+                                              - /url: https://www.youtube.com/watch?v=gB1D6vVAY-0&feature=endscreen
+                                              - heading "Office Tour - Experience our World of WOW!" [level=3]
+                                              - generic: 2 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=EQrW2tNRGuQ&feature=endscreen
+                                        - generic: 1:51
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "InfoBeans: ServiceNow Premier Partners | Meet our team of ServiceNow experts 3 years ago"':
+                                              - /url: https://www.youtube.com/watch?v=EQrW2tNRGuQ&feature=endscreen
+                                              - 'heading "InfoBeans: ServiceNow Premier Partners | Meet our team of ServiceNow experts" [level=3]'
+                                              - generic: 3 years ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                        - generic: 1:22:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast 7 months ago":
+                                              - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                              - heading "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast" [level=3]
+                                              - generic: 7 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                        - generic: 8:10
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "The Unplugged Chat - Life at InfoBeans 9 months ago":
+                                              - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                              - heading "The Unplugged Chat - Life at InfoBeans" [level=3]
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                        - generic: 14:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "WOW People: Life at InfoBeans 9 months ago"':
+                                              - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                              - 'heading "WOW People: Life at InfoBeans" [level=3]'
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=Ar5oeL3dEvk&feature=endscreen
+                                        - generic: 1:41
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "Meet Qava : AI Agents for Every Oracle Fusion Release 6 days ago"':
+                                              - /url: https://www.youtube.com/watch?v=Ar5oeL3dEvk&feature=endscreen
+                                              - 'heading "Meet Qava : AI Agents for Every Oracle Fusion Release" [level=3]'
+                                              - generic: 6 days ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=-rNp2DY4oVg&feature=endscreen
+                                        - generic: 1:35
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Stop Losing Client Trust in Salesforce | BeanTrail Agent Explained 8 months ago":
+                                              - /url: https://www.youtube.com/watch?v=-rNp2DY4oVg&feature=endscreen
+                                              - heading "Stop Losing Client Trust in Salesforce | BeanTrail Agent Explained" [level=3]
+                                              - generic: 8 months ago
+            - generic [aria-hidden] [ref=f7e155] [cursor=pointer]
+            - button "Play video"
+            - group "Video controls":
+              - button "Pause"
+              - slider "Seek"
+              - generic:
+                - generic: 0:00
+                - generic: /
+                - generic: 1:59
+              - button "Full screen"
+          - generic [ref=f7e157]:
+            - iframe [ref=f7e158]:
+              - generic [ref=f10e1]:
+                - generic "YouTube Video Player" [ref=f10e3]
+                - generic [ref=f10e6]:
+                  - generic:
+                    - generic:
+                      - button "Hide player controls" [ref=f10e7] [cursor=pointer]
+                      - generic [ref=f10e9]:
+                        - generic [ref=f10e16]:
+                          - generic [ref=f10e17]:
+                            - link "Celebrating Diwali 2023" [ref=f10e18] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=SWe6bVaXPGg
+                            - link "InfoBeans" [ref=f10e19] [cursor=pointer]:
+                              - /url: /channel/UClE2ErY6eTSv6GvveEWv8wQ
+                          - generic [ref=f10e21]:
+                            - button [ref=f10e22] [cursor=pointer]
+                            - generic [ref=f10e24]:
+                              - generic: InfoBeans
+                              - generic: 16K subscribers
+                        - generic [ref=f10e26]:
+                          - button "Rewind 10 seconds" [ref=f10e27] [cursor=pointer]
+                          - button "Play video" [ref=f10e29] [cursor=pointer]
+                          - button "Fast forward 10 seconds" [ref=f10e33] [cursor=pointer]
+                        - generic:
+                          - generic [ref=f10e34]:
+                            - button "Copy link" [ref=f10e38] [cursor=pointer]
+                            - generic [ref=f10e46]:
+                              - button "More videos" [ref=f10e49] [cursor=pointer]
+                              - link "Watch on YouTube" [ref=f10e56] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=SWe6bVaXPGg
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                        - generic: 1:22:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast 7 months ago":
+                                              - /url: https://www.youtube.com/watch?v=TTvoGw3rTQ4&feature=endscreen
+                                              - heading "Why Top Talent is Leaving Bangalore for Indore | The Creating WOW Podcast" [level=3]
+                                              - generic: 7 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                        - generic: 8:10
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "The Unplugged Chat - Life at InfoBeans 9 months ago":
+                                              - /url: https://www.youtube.com/watch?v=wBGHmutfIRE&feature=endscreen
+                                              - heading "The Unplugged Chat - Life at InfoBeans" [level=3]
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                        - generic: 14:22
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - 'link "WOW People: Life at InfoBeans 9 months ago"':
+                                              - /url: https://www.youtube.com/watch?v=8iZxCQfD4kk&feature=endscreen
+                                              - 'heading "WOW People: Life at InfoBeans" [level=3]'
+                                              - generic: 9 months ago
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link [aria-hidden]:
+                                        - /url: https://www.youtube.com/watch?v=ZfeH7PCByvk&feature=endscreen
+                                        - generic: 1:30
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link "Can You Trust Your Salesforce Data? | BeanTrail Agent Demo 8 months ago":
+                                              - /url: https://www.youtube.com/watch?v=ZfeH7PCByvk&feature=endscreen
+                                              - heading "Can You Trust Your Salesforce Data? | BeanTrail Agent Demo" [level=3]
+                                              - generic: 8 months ago
+            - generic [aria-hidden] [ref=f7e159] [cursor=pointer]
+            - button "Play video"
+            - group "Video controls":
+              - button "Play"
+              - slider "Seek"
+              - generic:
+                - generic: 0:07
+                - generic: /
+                - generic: 1:31
+              - button "Full screen"
+        - generic [ref=f7e162]:
+          - paragraph [ref=f7e163]: It starts with noticing what others might miss.
+          - paragraph [ref=f7e164]: It grows when people choose to build together.
+          - paragraph [ref=f7e165]: It's part of how we grow together, in the ways that matter.
+    - generic [ref=f7e166]:
+      - generic [ref=f7e169]:
+        - heading [level=2] [ref=f7e170]:
+          - text: Let's
+          - strong [ref=f7e171]: create wow
+          - text: together
+        - generic [ref=f7e172]:
+          - textbox "Ask Expona about our services, case studies, or updates" [ref=f7e173]
+          - button "Ask Expona" [ref=f7e174] [cursor=pointer]
+      - contentinfo [ref=f7e177]:
+        - generic [ref=f7e179]:
+          - generic [ref=f7e180]:
+            - generic [ref=f7e181]:
+              - generic [ref=f7e182]: DISCIPLINES
+              - generic [ref=f7e186]:
+                - link "Design" [ref=f7e187] [cursor=pointer]:
+                  - /url: /ux-design/
+                - generic [ref=f7e188]: /
+                - link "GCC" [ref=f7e189] [cursor=pointer]:
+                  - /url: /gcc-services/
+                - generic [ref=f7e190]: /
+                - link "Platform Assessment" [ref=f7e191] [cursor=pointer]:
+                  - /url: /platform-assessment/
+                - generic [ref=f7e192]: /
+                - link "BFSI" [ref=f7e193] [cursor=pointer]:
+                  - /url: /bfsi/
+                - generic [ref=f7e194]: /
+                - link "Storage & Virtualization" [ref=f7e195] [cursor=pointer]:
+                  - /url: /storage-and-virtualization/
+                - generic [ref=f7e196]: /
+                - link "High-Tech" [ref=f7e197] [cursor=pointer]:
+                  - /url: /technology/
+                - generic [ref=f7e198]: /
+                - link "Manufacturing" [ref=f7e199] [cursor=pointer]:
+                  - /url: /manufacturing/
+                - generic [ref=f7e200]: /
+                - link "Agentic Engineering" [ref=f7e201] [cursor=pointer]:
+                  - /url: /agentic-engineering/
+                - generic [ref=f7e202]: /
+                - link "ServiceNow" [ref=f7e203] [cursor=pointer]:
+                  - /url: /servicenow/
+                - generic [ref=f7e204]: /
+                - link "Salesforce" [ref=f7e205] [cursor=pointer]:
+                  - /url: /salesforce/
+            - generic [ref=f7e206]:
+              - generic [ref=f7e207]: INNOVATION
+              - generic [ref=f7e211]:
+                - link "Expona AI" [ref=f7e212] [cursor=pointer]:
+                  - /url: https://expona.io/
+                - generic [ref=f7e213]: /
+                - link "Insane SDD" [ref=f7e214] [cursor=pointer]:
+                  - /url: https://insanesdd.ai/
+                - generic [ref=f7e215]: /
+                - link "ServiceNow HRSD" [ref=f7e216] [cursor=pointer]:
+                  - /url: /servicenow-hrsd/
+                - generic [ref=f7e217]: /
+                - link "Stanza" [ref=f7e218] [cursor=pointer]:
+                  - /url: /stanza/
+                - generic [ref=f7e219]: /
+                - link "Spacewarp for ServiceNow" [ref=f7e220] [cursor=pointer]:
+                  - /url: /spacewarp/
+                - generic [ref=f7e221]: /
+                - link "BeanTrail for Salesforce" [ref=f7e222] [cursor=pointer]:
+                  - /url: /beantrail/
+                - generic [ref=f7e223]: /
+                - link "QAVA for Oracle" [ref=f7e224] [cursor=pointer]:
+                  - /url: /qava-for-oracle/
+            - generic [ref=f7e225]:
+              - generic [ref=f7e226]: INSIGHTS
+              - generic [ref=f7e230]:
+                - link "Blog" [ref=f7e231] [cursor=pointer]:
+                  - /url: /blog/
+                - generic [ref=f7e232]: /
+                - link "WOW Podcast" [ref=f7e233] [cursor=pointer]:
+                  - /url: /podcasts/
+                - generic [ref=f7e234]: /
+                - link "True Stories" [ref=f7e235] [cursor=pointer]:
+                  - /url: /true-stories/
+            - generic [ref=f7e236]:
+              - generic [ref=f7e237]: ABOUT
+              - generic [ref=f7e241]:
+                - link "Our Team" [ref=f7e242] [cursor=pointer]:
+                  - /url: /leadership/
+                - generic [ref=f7e243]: /
+                - link "Foundation" [ref=f7e244] [cursor=pointer]:
+                  - /url: /infobeans-foundation/
+                - generic [ref=f7e245]: /
+                - link "Enterprise Readiness" [ref=f7e246] [cursor=pointer]:
+                  - /url: /enterprise-readiness/
+                - generic [ref=f7e247]: /
+                - link "Investors" [ref=f7e248] [cursor=pointer]:
+                  - /url: /investors/
+                - generic [ref=f7e249]: /
+                - link "Careers" [ref=f7e250] [cursor=pointer]:
+                  - /url: /careers/
+                - generic [ref=f7e251]: /
+                - link "Contact Us" [ref=f7e252] [cursor=pointer]:
+                  - /url: /contact-us/
+          - generic [ref=f7e253]:
+            - generic [ref=f7e254]:
+              - heading "Get insights from InfoBeans" [level=3] [ref=f7e255]
+              - generic [ref=f7e257]:
+                - textbox "Enter Your Email" [ref=f7e258]
+                - button "button" [ref=f7e259] [cursor=pointer]:
+                  - generic [ref=f7e260]: SUBSCRIBE
+            - generic [ref=f7e261]:
+              - img "InfoBeans" [ref=f7e262]
+              - generic [ref=f7e263]:
+                - link "LinkedIn" [ref=f7e264] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/infobeans/
+                - link "Twitter / X" [ref=f7e267] [cursor=pointer]:
+                  - /url: https://x.com/InfoBeans
+                - link "Instagram" [ref=f7e270] [cursor=pointer]:
+                  - /url: https://www.instagram.com/InfoBeans/
+                - link "Facebook" [ref=f7e273] [cursor=pointer]:
+                  - /url: https://www.facebook.com/InfoBeans/
+          - generic [ref=f7e276]:
+            - generic [ref=f7e277]: © Copyright 2026 InfoBeans
+            - generic [ref=f7e278]:
+              - link "DISCLAIMER" [ref=f7e279] [cursor=pointer]:
+                - /url: /disclaimer/
+              - link "PRIVACY POLICY" [ref=f7e280] [cursor=pointer]:
+                - /url: /privacy-policy/
+        - generic [ref=f7e283]:
+          - generic [ref=f7e284]: InfoBeans is a Select partner in the Claude Partner Network Services Track.
+          - button "SEE HOW WE BUILD" [ref=f7e286] [cursor=pointer]

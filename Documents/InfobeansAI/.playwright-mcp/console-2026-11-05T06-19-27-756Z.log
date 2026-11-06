@@ -1,0 +1,28 @@
+[     932ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/de/:1703
+[    2297ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[    3766ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[    3813ms] Object
+[    4667ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/:1710
+[    5132ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[    6206ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[    6266ms] [LOG] Home smoother script loaded 1.1.9 @ https://infobeans.ai/wp-content/themes/infobeans-2023/js/home-smoother-1.js:9
+[    7177ms] Object
+[    9386ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    9395ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[   10263ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[   45330ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/de/:1705
+[   45541ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[   46610ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[   46641ms] [LOG] Home smoother script loaded 1.1.9 @ https://infobeans.ai/wp-content/themes/infobeans-2023/js/home-smoother-1.js:9
+[   47760ms] Object
+[   50313ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[   50838ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[   50867ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3070892ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/de/:1704
+[ 3071439ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[ 3073884ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[ 3074961ms] [LOG] Home smoother script loaded 1.1.9 @ https://infobeans.ai/wp-content/themes/infobeans-2023/js/home-smoother-1.js:9
+[ 3078776ms] Object
+[ 3087411ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3087426ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3087902ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0

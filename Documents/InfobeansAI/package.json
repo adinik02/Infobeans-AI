@@ -1,0 +1,23 @@
+{
+  "name": "infobeansai",
+  "version": "1.0.0",
+  "description": "Playwright website QA automation for InfoBeans English and German sites",
+  "main": "index.js",
+  "scripts": {
+    "discover": "node utils/discover-site.js",
+    "generate-tests": "node utils/generate-test-cases.js",
+    "generate-reports": "node utils/generate-reports.js",
+    "test": "playwright test",
+    "test:english": "playwright test tests/english",
+    "test:german": "playwright test tests/german",
+    "test:localization": "playwright test tests/localization"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-11-05T12:08:21.129Z",
+  "locale": "german",
+  "counts": {
+    "total": 13,
+    "passed": 7,
+    "failed": 6,
+    "skipped": 0
+  },
+  "tests": [
+    {
+      "id": "TC_DE_FORM_VALIDATION_0001",
+      "title": "TC_DE_FORM_VALIDATION_0001 | Verify german contact email input validation without submitting",
+      "file": "german/contact-form.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "emailFieldCount": 1,
+        "typeMismatch": true,
+        "submitted": false
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_FOOTER_STRUCTURE_0001",
+      "title": "TC_DE_FOOTER_STRUCTURE_0001 | Verify german footer links and destinations",
+      "file": "german/footer.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "links": 32,
+        "regionVisible": true
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_HEADER_DROPDOWNS_0001",
+      "title": "TC_DE_HEADER_DROPDOWNS_0001 | Verify german header dropdown menus",
+      "file": "german/header-dropdowns.spec.js",
+      "status": "failed",
+      "actualResult": null,
+      "error": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator:  getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()\nExpected: visible\nReceived: hidden\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first() with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('banner').locator('.nav-item.dropdown-trigger').first().locator('a.submenu-link').first()\u001b[22m\n\u001b[2m    6 × locator resolved to <a class=\"submenu-link\" href=\"/de/ux-design/\">Design</a>\u001b[22m\n\u001b[2m      - unexpected value \"hidden\"\u001b[22m\n"
+    },
+    {
+      "id": "TC_DE_HEADER_STRUCTURE_0001",
+      "title": "TC_DE_HEADER_STRUCTURE_0001 | Verify german header links and destinations",
+      "file": "german/header.spec.js",
+      "status": "failed",
+      "actualResult": null,
+      "error": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeGreaterThan\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: > \u001b[32m0\u001b[39m\nReceived:   \u001b[31m0\u001b[39m"
+    },
+    {
+      "id": "TC_DE_HOME_FUNCTIONAL_0001",
+      "title": "TC_DE_HOME_FUNCTIONAL_0001 | Verify german homepage contact CTA is available without submitting a form",
+      "file": "german/homepage-functional.spec.js",
+      "status": "passed",
+      "actualResult": "Localized Expona input and button visible; no form was submitted.",
+      "error": ""
+    },
+    {
+      "id": "TC_DE_PAGE_0001",
+      "title": "TC_DE_PAGE_0001 | Verify german page availability and core content: Homepage",
+      "file": "german/homepage.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "status": 200,
+        "finalUrl": "https://infobeans.ai/de/",
+        "title": "Enterprise-KI & Digital-Engineering-Services | InfoBeans",
+        "metaDescription": "InfoBeans entwirft, entwickelt und betreibt Enterprise-Anwendungen für KI, ServiceNow, Salesforce, Cloud und Product Engineering – für messbare Ergebnisse.",
+        "mainHeading": "Die stillste Art der Fürsorge",
+        "headingCount": 18,
+        "bodyTextLength": 7779,
+        "language": "de-DE",
+        "pageErrors": [],
+        "consoleErrors": []
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_PAGE_0002",
+      "title": "TC_DE_PAGE_0002 | Verify page images and alternative text: Homepage",
+      "file": "german/homepage.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "imageIssues": []
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_PAGE_0003",
+      "title": "TC_DE_PAGE_0003 | Verify homepage internal navigation links: Homepage",
+      "file": "german/homepage.spec.js",
+      "status": "failed",
+      "actualResult": {
+        "internalLinkCount": 0,
+        "invalidLinks": []
+      },
+      "error": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeGreaterThan\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: > \u001b[32m0\u001b[39m\nReceived:   \u001b[31m0\u001b[39m"
+    },
+    {
+      "id": "TC_DE_LANGUAGE_SWITCH_0001",
+      "title": "TC_DE_LANGUAGE_SWITCH_0001 | Switch from german to English",
+      "file": "german/language-switch.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "url": "https://infobeans.ai/ux-design/",
+        "language": "en-US"
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_PAGE_0004",
+      "title": "TC_DE_PAGE_0004 | Verify german page availability and core content: ux design",
+      "file": "german/pages/page-ux-design-27bf785d.spec.js",
+      "status": "failed",
+      "actualResult": {
+        "status": 200,
+        "finalUrl": "https://infobeans.ai/de/ux-design/",
+        "title": "UX/UI-Design und -Entwicklung | InfoBeans",
+        "metaDescription": "Gestalten Sie intuitive Enterprise-Web- und Mobile-Erlebnisse mit User Research, UX-Strategie, Interface Design, Prototyping und Front-End-Entwicklung.",
+        "mainHeading": "",
+        "headingCount": 12,
+        "bodyTextLength": 4068,
+        "language": "de-DE",
+        "pageErrors": [],
+        "consoleErrors": []
+      },
+      "error": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByRole('heading', { level: 1 }).first()\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByRole('heading', { level: 1 }).first() with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('heading', { level: 1 }).first()\u001b[22m\n\u001b[2m    - waiting for \"https://infobeans.ai/de/ux-design/\" navigation to finish...\u001b[22m\n\u001b[2m    - navigated to \"https://infobeans.ai/de/ux-design/\"\u001b[22m\n"
+    },
+    {
+      "id": "TC_DE_PAGE_0005",
+      "title": "TC_DE_PAGE_0005 | Verify page images and alternative text: ux design",
+      "file": "german/pages/page-ux-design-27bf785d.spec.js",
+      "status": "passed",
+      "actualResult": {
+        "imageIssues": []
+      },
+      "error": ""
+    },
+    {
+      "id": "TC_DE_PAGE_0006",
+      "title": "TC_DE_PAGE_0006 | Verify internal links and labels: ux design",
+      "file": "german/pages/page-ux-design-27bf785d.spec.js",
+      "status": "failed",
+      "actualResult": {
+        "expectedStableLinkCount": 0,
+        "currentInternalLinkCount": 0,
+        "invalidLinks": [],
+        "missingLinks": []
+      },
+      "error": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeGreaterThan\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: > \u001b[32m0\u001b[39m\nReceived:   \u001b[31m0\u001b[39m"
+    },
+    {
+      "id": "TC_DE_RESPONSIVE_0001",
+      "title": "TC_DE_RESPONSIVE_0001 | Verify german homepage responsive layout",
+      "file": "german/responsive.spec.js",
+      "status": "timedOut",
+      "actualResult": [
+        {
+          "width": 375,
+          "viewportWidth": 375,
+          "contentWidth": 375
+        },
+        {
+          "width": 768,
+          "viewportWidth": 768,
+          "contentWidth": 768
+        },
+        {
+          "width": 1280,
+          "viewportWidth": 1280,
+          "contentWidth": 1280
+        }
+      ],
+      "error": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+    }
+  ]
+}

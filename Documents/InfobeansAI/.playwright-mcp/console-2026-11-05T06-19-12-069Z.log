@@ -1,0 +1,67 @@
+[    1626ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/:770
+[    2172ms] [LOG] [LiteSpeed] Start Load JS Delayed @ https://infobeans.ai/:880
+[    2174ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    2192ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    2214ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    2218ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    2227ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    3865ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    3870ms] [LOG] {reload: yes} @ https://infobeans.ai/:880
+[    4122ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4128ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4456ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4492ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4499ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4501ms] [WARNING] jQuery.Deferred exception: Cannot read properties of undefined (reading 'setDefaults') TypeError: Cannot read properties of undefined (reading 'setDefaults')
+    at HTMLDocument.<anonymous> (blob:https://infobeans.ai/11027326-0d7b-436f-94c2-b89694384027:1:43)
+    at e (https://infobeans.ai/wp-includes/js/jquery/jquery.min.js:2:27028)
+    at t (https://infobeans.ai/wp-includes/js/jquery/jquery.min.js:2:27330) undefined @ https://infobeans.ai/wp-includes/js/jquery/jquery.min.js:1
+[    4505ms] TypeError: Cannot read properties of undefined (reading 'setDefaults')
+    at HTMLDocument.<anonymous> (blob:https://infobeans.ai/11027326-0d7b-436f-94c2-b89694384027:1:43)
+    at e (https://infobeans.ai/wp-includes/js/jquery/jquery.min.js:2:27028)
+    at t (https://infobeans.ai/wp-includes/js/jquery/jquery.min.js:2:27330)
+[    4507ms] TypeError: Cannot read properties of undefined (reading 'use')
+    at blob:https://infobeans.ai/c5ce0f70-00fd-4ad5-938d-a0be0b9341d3:1:72
+    at blob:https://infobeans.ai/c5ce0f70-00fd-4ad5-938d-a0be0b9341d3:1:130
+[    4508ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4513ms] TypeError: Cannot read properties of undefined (reading 'use')
+    at blob:https://infobeans.ai/350dcdf5-aa85-42d7-896a-989fa6687c4c:1:13
+[    4513ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4519ms] ReferenceError: moment is not defined
+    at blob:https://infobeans.ai/abdc4071-8ef4-4920-bc26-0e3c4ceb2525:1:1
+[    4517ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4524ms] TypeError: Cannot read properties of undefined (reading 'setSettings')
+    at blob:https://infobeans.ai/94759b18-e4ca-4a2b-9d81-2b0d496ceeed:1:9
+[    4523ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4527ms] TypeError: Cannot read properties of undefined (reading '__unstableCreatePersistenceLayer')
+    at blob:https://infobeans.ai/9ee3c477-502d-4294-b068-73043e266da3:1:93
+    at blob:https://infobeans.ai/9ee3c477-502d-4294-b068-73043e266da3:1:261
+[    4526ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4530ms] TypeError: Cannot convert undefined or null to object
+    at Object.assign (<anonymous>)
+    at blob:https://infobeans.ai/53881121-9157-4b8c-92d6-f1e508c14266:1:8
+[    4530ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4534ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4539ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4543ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    4569ms] [LOG] [LiteSpeed] Load  JSHandle@node @ https://infobeans.ai/:880
+[    5071ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/:1708
+[    5563ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[    6725ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[    6772ms] [LOG] Home smoother script loaded 1.1.9 @ https://infobeans.ai/wp-content/themes/infobeans-2023/js/home-smoother-1.js:9
+[    7679ms] Object
+[    8839ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    8923ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    8948ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3088859ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/:1710
+[ 3089743ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[ 3091832ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[ 3091861ms] Object
+[ 3092721ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://infobeans.ai/de/:1705
+[ 3093167ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://infobeans.ai/wp-includes/js/jquery/jquery-migrate.min.js:1
+[ 3094479ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://infobeans.ai/wp-json/wp/v2/users/me?context=edit&_locale=user:0
+[ 3094645ms] [LOG] Home smoother script loaded 1.1.9 @ https://infobeans.ai/wp-content/themes/infobeans-2023/js/home-smoother-1.js:9
+[ 3096805ms] Object
+[ 3104116ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3104127ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[ 3104592ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
